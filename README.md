@@ -9,7 +9,7 @@ Unicode symbols with Windows CMD fallbacks. (Dart port)
 ## Usage
 
 ```dart
-import 'package:figures/figures.dart' show figures, replaceFigures;
+import 'package:figures/figures.dart';
 
 void main() {
   /*
