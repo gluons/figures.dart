@@ -1,6 +1,7 @@
 # figures
 [![GitHub](https://img.shields.io/github/license/gluons/figures.dart.svg?style=flat-square)](./LICENSE)
 [![Pub](https://img.shields.io/pub/v/figures.svg?style=flat-square)](https://pub.dev/packages/figures)
+[![Travis (.com)](https://img.shields.io/travis/com/gluons/figures.dart.svg?style=flat-square)](https://travis-ci.com/gluons/figures.dart)
 
 Unicode symbols with Windows CMD fallbacks. (Dart port)
 
