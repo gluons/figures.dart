@@ -1,5 +1,5 @@
 name: figures
-version: 1.0.0
+version: 1.0.1
 description: A Dart package for using Unicode symbols with Windows CMD fallbacks.
 environment:
   sdk: '>=2.0.0 <3.0.0'
