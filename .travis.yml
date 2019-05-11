@@ -6,4 +6,4 @@ os:
 dart:
   - stable
 dart_task:
-  - dartanalyzer: --fatal-warning
+  - dartanalyzer: --fatal-warnings .
