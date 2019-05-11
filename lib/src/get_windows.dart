@@ -62,5 +62,5 @@ Map<String, String> getWindows() {
     'sevenEighths': '7/8'
   };
 
-  return windows;
+  return new Map.unmodifiable(windows);
 }

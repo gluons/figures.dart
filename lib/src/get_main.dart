@@ -2,7 +2,7 @@ import 'dart:io' show Platform;
 
 /// Get main figures.
 Map<String, String> getMain() {
-  const main = {
+  var main = {
     'tick': '✔',
     'cross': '✖',
     'star': '★',
@@ -66,5 +66,5 @@ Map<String, String> getMain() {
     main['questionMarkPrefix'] = '?';
   }
 
-  return main;
+  return new Map.unmodifiable(main);
 }
