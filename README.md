@@ -1,4 +1,6 @@
 # figures
+[![Pub](https://img.shields.io/pub/v/figures.svg?style=flat-square)](https://pub.dev/packages/figures)
+[![GitHub](https://img.shields.io/github/license/gluons/figures.dart.svg?style=flat-square)](./LICENSE)
 
 Unicode symbols with Windows CMD fallbacks. (Dart port)
 
