@@ -1,0 +1,9 @@
+language: dart
+os:
+  - linux
+  - osx
+  - windows
+dart:
+  - stable
+dart_task:
+  - dartanalyzer: --fatal-warning
