@@ -7,5 +7,6 @@ dart:
   - stable
 dart_task:
   - dartanalyzer: --fatal-warnings .
+  - test
 notifications:
   email: false
