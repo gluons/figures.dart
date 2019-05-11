@@ -3,6 +3,7 @@ version: 1.0.0
 description: Unicode symbols with Windows CMD fallbacks
 environment:
   sdk: '>=2.0.0 <3.0.0'
-author: Saran Tanpituckpong
+author: Saran Tanpituckpong <sarunta@gmail.com>
 repository: https://github.com/gluons/figures.dart
 issue_tracker: https://github.com/gluons/figures.dart/issues
+homepage: https://github.com/gluons/figures.dart
